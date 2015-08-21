@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.chinagpay.zhpaysdk"
+          package="com.checkout.diancan"
           android:versionCode="1"
           android:versionName="1.0">
 
@@ -8,14 +8,14 @@
             android:targetSdkVersion="21"/>
 
     <application
-            android:name="com.chinagpay.diancan.config.ZHPayApp"
+            android:name="com.checkout.diancan.config.ZHPayApp"
             android:allowBackup="true"
             android:icon="@drawable/ic_launcher"
             android:label="@string/app_name"
             android:theme="@style/AppTheme">
 
         <activity
-                android:name="com.chinagpay.diancan.ui.BusinessActivity"
+                android:name="com.checkout.diancan.ui.BusinessActivity"
                 android:label="@string/app_name"
                 android:screenOrientation="portrait"
                 android:theme="@android:style/Theme.NoTitleBar">
@@ -25,7 +25,7 @@
             <!--</intent-filter>-->
         </activity>
         
-        <activity android:name="com.chinagpay.diancan.api.TestActivity"
+        <activity android:name="com.checkout.diancan.api.TestActivity"
                   android:label="@string/app_name"
                   android:screenOrientation="portrait"
                   android:theme="@android:style/Theme.NoTitleBar">
@@ -36,26 +36,26 @@
         </activity>
 
         <activity
-                android:name="com.chinagpay.diancan.ui.CustomPayActivity"
+                android:name="com.checkout.diancan.ui.CustomPayActivity"
                 android:label="@string/app_name"
                 android:screenOrientation="portrait"
                 android:theme="@android:style/Theme.NoTitleBar">
 
         </activity>
         <activity
-                android:name="com.chinagpay.diancan.ui.ZHPayActivity"
+                android:name="com.checkout.diancan.ui.ZHPayActivity"
                 android:label="@string/app_name"
                 android:screenOrientation="portrait"
                 android:theme="@android:style/Theme.NoTitleBar">
         </activity>
         <activity
-                android:name="com.chinagpay.diancan.ui.SelectBankActivity"
+                android:name="com.checkout.diancan.ui.SelectBankActivity"
                 android:label="@string/app_name"
                 android:screenOrientation="portrait"
                 android:theme="@android:style/Theme.NoTitleBar">
         </activity>
         <activity
-                android:name="com.chinagpay.diancan.ui.UnCardBinActivity"
+                android:name="com.checkout.diancan.ui.UnCardBinActivity"
                 android:label="@string/app_name"
                 android:screenOrientation="portrait"
                 android:theme="@android:style/Theme.NoTitleBar">

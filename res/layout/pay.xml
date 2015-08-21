@@ -149,7 +149,7 @@
                     android:layout_height="wrap_content"
                     android:orientation="vertical">
 
-                <com.chinagpay.diancan.ui.widget.IdCodeInfoItemView
+                <com.checkout.diancan.ui.widget.IdCodeInfoItemView
                         android:id="@+id/idcode_item"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"/>
