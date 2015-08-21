@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="idType">
+        <item>身份证</item>
+        <item>户口簿</item>
+        <item>护照</item>
+        <item>军官证</item>
+        <item>士兵证</item>
+        <item>港澳居民来往</item>
+        <item>台湾同胞来往内地通行</item>
+        <item>临时身份证</item>
+        <item>外国人居留证</item>
+        <item>警官证</item>
+        <item>其他证件</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/chinagpay/zhpaysdk/tools/Base64.java=UTF-8
+encoding//src/com/chinagpay/zhpaysdk/tools/CertificateCoder.java=UTF-8
+encoding//src/com/chinagpay/zhpaysdk/tools/EncAndDecUtils.java=UTF-8
+encoding//src/com/chinagpay/zhpaysdk/tools/EncDecUtil.java=UTF-8
+encoding//src/com/chinagpay/zhpaysdk/tools/GsonUtils.java=UTF-8
+encoding//src/com/chinagpay/zhpaysdk/tools/StringUtils.java=UTF-8
+encoding/<project>=UTF-8
