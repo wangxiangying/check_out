@@ -25,6 +25,8 @@ import java.lang.ref.PhantomReference;
  */
 public class BusinessActivity extends BaseActivity {
     //标准模式，绑卡模式
+    //test for dian can
+
     private Button normal_mode, sample_mode;
 
     @Override
